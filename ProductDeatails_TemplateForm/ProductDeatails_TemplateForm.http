@@ -1,0 +1,6 @@
+@ProductDeatails_TemplateForm_HostAddress = http://localhost:5169
+
+GET {{ProductDeatails_TemplateForm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
